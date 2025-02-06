@@ -54,7 +54,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contributing
 Feel free to fork the project and submit pull requests for improvements.
 
-## Author
-Your Name
-[GitHub Profile](https://github.com/prashantpurty)
+
+
 
