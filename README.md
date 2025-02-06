@@ -56,5 +56,5 @@ Feel free to fork the project and submit pull requests for improvements.
 
 ## Author
 Your Name
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/prashantpurty)
 
